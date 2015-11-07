@@ -1,0 +1,4 @@
+[package]
+name = "rustbase"
+version = "0.1.0"
+authors = ["dbasak <dbasak@bol.com>"]
